@@ -1,0 +1,9 @@
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\bin\Debug\PracticeDatabase.exe.config
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\bin\Debug\PracticeDatabase.exe
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\bin\Debug\PracticeDatabase.pdb
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\obj\Debug\PracticeDatabase.csprojAssemblyReference.cache
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\obj\Debug\PracticeDatabase.Form1.resources
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\obj\Debug\PracticeDatabase.Properties.Resources.resources
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\obj\Debug\PracticeDatabase.csproj.GenerateResource.cache
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\obj\Debug\PracticeDatabase.exe
+C:\Users\Tech Land\source\repos\PracticeDatabase\PracticeDatabase\obj\Debug\PracticeDatabase.pdb
